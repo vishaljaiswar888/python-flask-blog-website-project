@@ -10,13 +10,13 @@
     "blog_name": "Vishal Jaiswar",
     "tag_line": "Data Science & Machine Learning Enthusiast",
     "copy-right": "Vishal Jaiswar 2021-2022",
-    "gmail-user": "blogvishal007@gmail.com",
-    "gmail-password": "&$e!1Tw4#msq198r6%$",
+    "gmail-user": "email_id",
+    "gmail-password": "email_pass",
     "about_text": "Hi! my name is Vishal Jaiswar, I am currently working on Data Science & Machine Learning niche and talks about anything related to this topic on this blog. If you want to hear me talking more on this, do Subscribe my blog and you are done. Thank You.",
     "no_of_posts": 3,
     "login_image": "login.svg",
-    "admin_user": "vishal",
-    "admin_pass": "Admin@123^321",
+    "admin_user": "admin_user",
+    "admin_pass": "admin_pass",
     "upload_location": "D:\\ProgramData\\Python_Flask_CWH\\static"
   }
 }
